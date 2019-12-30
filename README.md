@@ -1,4 +1,4 @@
-# NLP - Amazon Reviews Star Rating Predicter 
+# Natural Language Processing - Amazon Reviews Star Rating Predicter 
 
 **Goal**: Predict the aggregate product rating on an Amazon product
 
